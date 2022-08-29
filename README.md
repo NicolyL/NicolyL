@@ -5,7 +5,7 @@
 </br>
 
 <p>Um pouquinho sobre mim:</p>
-<p>.  💻 Estudante de Ciência de computação;</p>
+<p>.  💻 Estudante de Ciência da computação;</p>
 <p>. Estudante de Dashboard no Excel;</p>
 <p>. Estudante de HTML | CSS  |JavaScript;</p>
 </br>
