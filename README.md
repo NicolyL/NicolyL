@@ -12,3 +12,5 @@
 <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <div>
+
+Sou apaixoda por tecnologia, estudo o que amo e sei onde desojo chegar.
